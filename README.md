@@ -9,7 +9,7 @@ $ cd frontend
 npm install
 npm start
 ```
-For the backend flask web serve, it'r required run the following command. It will install the packages according to the configuration file `requirements.txt`.
+For the backend flask web serve, it'r required run the following command. It will install the packages according to the configuration file `requirements.txt`. cmake needs to be installed first. i used cmake version 3.22.4 for this project.
 ```
 $ pip install -r requirements.txt 
 ```
