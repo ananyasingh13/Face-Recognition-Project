@@ -1,0 +1,16 @@
+.life {
+    background-image: url("./img-2.jpg");
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .life > h1 {
+    color: #fff;
+    font-size: 100px;
+    margin-top: 15px;
+  }
+  
+  
