@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 ```
 and then run the python files.
 
-## Do read the about-readme.txt for proper understanding of project
+### Do read the about-readme.md for proper understanding of project
 
 I couldn't connect my backend to my frontend properly, therefore please view the video demonstration to see the working.
   
