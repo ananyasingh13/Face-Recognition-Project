@@ -24,6 +24,7 @@ _This web application is made for the purpose of face recognition login using Re
     1. attendance.py - this takes the attendance through facial recognition. It trains the model based on the images in images-train folder. `OpenCV` with `face_recognition` package is used. `dlib` toolkit is also used. It opens up the camera , detects and ***identifies*** the face and marks the attendance along with timestamp in attendance.csv .
     2. security.py - It is for the added security feature of the project. It starts recording as soon as it detects the face and stops recording after 5 seconds of not detecting face.
     3. script.py - Takes the picture for training and has the model for authentication at login.
+    
     ![Backend](https://github.com/ananyasingh13/Face-Recognition-Project/blob/main/presentation/backend.png)
     The above image shows the attendance.py running. The training of model is done as indicated in terminal with `Encoding done!` , the face is recognized and name is shown , the attendance is also recorded in attendance.csv
 
