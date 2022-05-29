@@ -3,6 +3,9 @@
 
 This repository contains implementation of facial recognition attendance and security system. It uses OpenCV and ReactJS for face recognition and frontend simultaneously. Python flask is used as a backend server for handling requests which will work as an API.
 
+### Architecture
+![architecture](https://github.com/ananyasingh13/Face-Recognition-Project/blob/main/presentation/Architecture.png)
+
 After cloned repo, to **run frontend** application: 
 ```
 $ cd frontend
