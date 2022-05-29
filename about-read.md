@@ -16,6 +16,7 @@ _This web application is made for the purpose of face recognition login using Re
   4. Login - Authenticates the person trying to use the page also takes attendance using the machine learning model for face detection.
   5. Signup - Signup page for new user.
   6. Attendance - Shows the attendance excel sheet for the day with name and timestamp of marking attendance.
-
+  
+  ![Frontend webpage shown](https://github.com/ananyasingh13/Face-Recognition-Project/blob/main/presentation/image.png)
 
 
