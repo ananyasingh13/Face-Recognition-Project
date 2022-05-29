@@ -6,6 +6,8 @@ This project aims to automate the traditional attendance system where the attend
 
 _This web application is made for the purpose of face recognition login using ReactJS as a frontend and Python Flask and opencv as a backend. Hence make sure that you have reactjs as well as python flask and opencv configured on your machine in order to run this application._
 
+![architecture](https://github.com/ananyasingh13/Face-Recognition-Project/blob/main/presentation/Architecture.png)
+
 
 
 - FRONTEND
