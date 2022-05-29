@@ -9,5 +9,13 @@ _This web application is made for the purpose of face recognition login using Re
 
 
 - FRONTEND
-  1. Home
-      It is the landing page of the project. The navbar has links to different pages
+  1. Home -
+      It is the landing page of the project. The navbar has links to different pages. The "get started" button leads to procedure page.
+  2. Procedure - Decribes the procedure for registering and login.
+  3. Register - Has a textfield which takes the name of person and on clicking the button the image of the person is taken for training the model.
+  4. Login - Authenticates the person trying to use the page also takes attendance using the machine learning model for face detection.
+  5. Signup - Signup page for new user.
+  6. Attendance - Shows the attendance excel sheet for the day with name and timestamp of marking attendance.
+
+
+
